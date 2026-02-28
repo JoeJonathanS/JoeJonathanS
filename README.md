@@ -1,14 +1,33 @@
-## Hi there 👋
+# Hi, I'm Joe 👋
 
-**JoeJonathanS/JoeJonathanS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | Back End | IoT | R&D | Lead
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I am a passionate software engineer with 4+ years of experience in software engineering, dev ops, web, and mobile development. I have worked on 
+various projects, including building robust API, setting up servers, creating responsive websites, and developing corporate-scale applications. I am 
+eager to take on new challenges and learn new skills to further my career in software engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🛠 Technical Skills
+- JavaScript (React, Vue, Next, Node)
+- PHP (Laravel, Codeigniter, Yii)
+- Java (Java Spring)
+- Go
+- Python
+- Mobile (React Native)
+- Postgres
+- SQL Server, MySQL, SQLite
+- Git
+- DevOps
+
+
+## 📌 Featured Projects
+- 🔗 (https://rsvina.iwkapps.com/) Hospital Application – Vina Estetica
+- 🔗 (https://smashuprd.socfindo.co.id/) Oil palm & rubber Upkeep Management System – PT. Socfin Indonesia
+- 🔗 (https://siduta.medan.go.id/) SIDUTA Medan – Job Seeker Application
+- Custom ERP
+- Custom web/mobile Apps
+- Custom IoT System
+
+## 📫 Contact
+- Email: joenathans2712@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/joejonathansitinjak/)
