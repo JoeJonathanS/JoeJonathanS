@@ -21,9 +21,10 @@ eager to take on new challenges and learn new skills to further my career in sof
 
 ## 💼 Professional Experience
 - Developing staging backend for palm oil industry (Node.js / Go)
-- Leading Hospital Information System backend
+- Leading Hospital Information System backend (PHP)
+- Create and enhance SIDUTA Medan (PHP)
 - Optimizing PostgreSQL query performance
-- Create an automatic attendance system using AI with CCTV
+- Create an automatic attendance system using AI with CCTV (Python)
 - Configure Dev, QA, and Production Servers
 
 ## 📌 Featured Projects
