@@ -3,7 +3,7 @@
 Software Engineer | Back End | IoT | R&D | Lead
 
 ## 🚀 About Me
-I am a passionate software engineer with 4+ years of experience in software engineering, dev ops, web, and mobile development. I have worked on 
+I am a passionate software engineer with 4+ years of experience in backend engineering, software engineering, dev ops, web, and mobile development. I have worked on 
 various projects, including building robust API, setting up servers, creating responsive websites, and developing corporate-scale applications. I am 
 eager to take on new challenges and learn new skills to further my career in software engineering
 
